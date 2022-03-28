@@ -1,0 +1,44 @@
+/* Css Tambahan Sendiri */
+
+.display-count {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.card-body-icon {
+    position: absolute;
+    z-index: 0;
+    top: 45px;
+    right: 4px;
+    opacity: 0.4;
+    font-size: 20px;
+}
+
+.card-body-icont {
+    position: absolute;
+    z-index: 0;
+    top: 60px;
+    margin: auto !important;
+    opacity: 0.4;
+    font-size: 20px;
+}
+
+.col-md-4t {
+    flex: 0 0 22%;
+    max-width: 22%;
+    margin: 7px 0 7px 23px;
+}
+
+@media (min-width: 992px) {
+    .modal-lgt,
+    .modal-xl {
+        max-width: 800px;
+    }
+}
+
+.modal-lgt {
+    max-width: 75%;
+}
+
+
+/* End Css Tambahan Sendiri */
